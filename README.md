@@ -4,6 +4,8 @@ Coding sample for **Django & Snowflake Integration** documentation page. Collect
 
 > 👉 [Free Support](https://app-generator.dev/ticket/create/) via `email` & `Discord` 
 
+<br />
+
 ## Build 
 
 > 👉 Download the code  
