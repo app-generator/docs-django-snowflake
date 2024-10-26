@@ -1,7 +1,9 @@
 # [Django & Snowflake Integration](https://app-generator.dev/docs/technologies/django/integrate-snowflake.html)
 
-Coding sample for **Django & Snowflake Integration** documentation page.
- 
+Coding sample for **Django & Snowflake Integration** documentation page. Collecting various types of data is essential for anyone aiming to understand user behaviors. However, for data-intensive applications, scalability and real-time processing are crucial. Integrating Django with Snowflake offers a scalable solution for handling large datasets.
+
+> 👉 [Free Support](https://app-generator.dev/ticket/create/) via `email` & `Discord` 
+
 ## Build 
 
 > 👉 Download the code  
