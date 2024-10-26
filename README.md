@@ -58,6 +58,17 @@ $ pip install -r requirements.txt
 
 > 👉 Set Up Database
 
+Enter Snowflake informations in the .env file. 
+
+```bash
+SNOWFLAKE_USER="your_username"
+SNOWFLAKE_PASSWORD="your_password"
+SNOWFLAKE_ACCOUNT="your_account_identifier"
+SNOWFLAKE_WAREHOUSE="your_warehouse"
+SNOWFLAKE_DATABASE="your_database"
+SNOWFLAKE_SCHEMA="your_schema"
+```
+
 ```bash
 $ python manage.py makemigrations
 $ python manage.py migrate
